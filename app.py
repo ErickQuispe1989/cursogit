@@ -1,2 +1,2 @@
 import pandas as pd
-print(2+2)
+print('fecha 2024/05/31')
